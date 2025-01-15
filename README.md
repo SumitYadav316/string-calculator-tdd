@@ -1,24 +1,17 @@
 # README
+# String Calculator TDD Kata
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is a solution to the Incubyte TDD Kata using Ruby and RSpec.
 
-Things you may want to cover:
+## How to Run
+1. Install Ruby.
+2. Clone this repository.
+3. Run `bundle install` to install dependencies.
+4. Run tests with `rspec`.
 
-* Ruby version
+## Features
+- Add numbers from a string.
+- Supports custom delimiters.
+- Handles edge cases like negative numbers.
 
-* System dependencies
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
